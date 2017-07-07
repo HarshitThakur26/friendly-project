@@ -1,0 +1,113 @@
+#header{
+	background:blue;
+}
+
+footer {
+ 
+  height: 30px;
+}
+
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 600px;
+}
+
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+  height: auto;
+}
+
+
+.white-text{color: white !important ;
+}
+   #header{ background-color: #4267b2;
+    color: white;
+	height: 42px;}
+.shake{color: white !important;
+
+}
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.nav-pills>li>a{
+	padding:5px 10px 0px 90px !important;
+}
+.nav-pills> p{margin: 10px 0 10px 80px !important; 
+}
+
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.image-post {
+    margin-bottom: 15px;
+	
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+
+#menu> nav-pills>img{
+	margin: 10px;
+}
+.nav-tabs a{
+	padding: 2px !important;
+}
+.nav-tabs li{
+	float: right !important;
+}
+#alay{margin-top: 10px;
+}
+.thakur {height: 30px;
+	position: relative;
+	right: 20px;
+	
+}
+.harshu{
+	padding: 0 150px 0 0;
+	height: 30px;
+}
+.shake{
+	padding: 5px;
+}
+.bull{
+	background: white !important;
+}
+#parrot{background: white;
+color: white}
+#ajaa{
+	float : right;
+	padding: 0 8px 0 0;
+}
+
+.object{
+	margin:5px 0 0 12px;
+}
+#fish{
+	padding: 0 0 0 8px;
+}
+.fun{
+	padding: 0 10px 0 0 ;
+}
+.nav .pad{
+	padding: 15px !important;
+}
+#wifi{
+	position: relative;
+}
+.dell{
+	position: relative;
+	right: 65px;
+}
